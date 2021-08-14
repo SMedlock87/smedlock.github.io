@@ -47,7 +47,7 @@ Again, I used the pet class from IT 145 course to display my skills using databa
 
 This code review explains the details of the initial plan for the final project of the pet class. It explains how I completed the project, and it also includes the existing functionality, code analysis and planned enhancements.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wqYQDD4UgZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/wqYQDD4UgZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 https://youtu.be/wqYQDD4UgZs
 
